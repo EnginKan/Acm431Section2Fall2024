@@ -48,7 +48,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.yeditepe.acm431section2.ui.theme.Acm431Section2Theme
 
-
+import com.yeditepe.acm431section2.R
 
 @Composable
 fun MyText(fontSize: Float = 24f,
